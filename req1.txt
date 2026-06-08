@@ -1,0 +1,9 @@
+pandas
+regex
+spacy
+openai
+python-dateutil
+json
+pyodbc
+cryptography
+en_core_web_lg
